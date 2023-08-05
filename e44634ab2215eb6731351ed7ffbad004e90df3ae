@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "feb1a2ca_1193a8fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 144
+      },
+      "writtenOn": "2023-08-05T13:17:57Z",
+      "side": 1,
+      "message": "Only this is requiered for vibrator zenfone9 changes.\n",
+      "revId": "e44634ab2215eb6731351ed7ffbad004e90df3ae",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
