@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8a0f08f2_b45c865d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 144
+      },
+      "writtenOn": "2023-08-05T10:28:07Z",
+      "side": 1,
+      "message": "https://gerrit.twrp.me/c/android_bootable_recovery/+/5406",
+      "revId": "c439caee72003492d05568e998098c3752db7971",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
