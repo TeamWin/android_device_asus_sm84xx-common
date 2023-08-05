@@ -133,3 +133,6 @@ BOARD_AVB_VBMETA_SYSTEM_ROLLBACK_INDEX_LOCATION := 2
 # Enable Fuse Passthrough
 PRODUCT_PROPERTY_OVERRIDES += persist.sys.fuse.passthrough.enable=true
 
+# Prebuit
+PRODUCT_COPY_FILES += \
+    $(call find-copy-subdir-files,*,$(COMMON_PATH)/recovery/root,recovery/root)
