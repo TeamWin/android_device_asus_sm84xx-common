@@ -14,3 +14,6 @@ vendor.gatekeeper.disable_spu=true
 
 # USB Config
 vendor.usb.use_ffs_mtp=1
+
+# Variant
+ro.vendor.qti.soc_id=530
