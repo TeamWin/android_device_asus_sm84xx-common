@@ -1,0 +1,34 @@
+service bat_bs /system/bin/bat_bs
+    user root
+    group root
+    setenv LD_LIBRARY_PATH /vendor/lib64:/vendor/lib:/system/lib64:/system/lib:/sbin
+    disabled
+    seclabel u:r:recovery:s0
+
+service bat_percent /system/bin/bat_percent
+    user root
+    group root
+    setenv LD_LIBRARY_PATH /vendor/lib64:/vendor/lib:/system/lib64:/system/lib:/sbin
+    disabled
+    seclabel u:r:recovery:s0
+
+service bat_safety /system/bin/bat_safety
+    user root
+    group root
+    setenv LD_LIBRARY_PATH /vendor/lib64:/vendor/lib:/system/lib64:/system/lib:/sbin
+    disabled
+    seclabel u:r:recovery:s0
+
+service bat_sd_bs /system/bin/bat_sd_bs
+    user root
+    group root
+    setenv LD_LIBRARY_PATH /vendor/lib64:/vendor/lib:/system/lib64:/system/lib:/sbin
+    disabled
+    seclabel u:r:recovery:s0
+
+service bat_sd_percent /system/bin/bat_sd_percent
+    user root
+    group root
+    setenv LD_LIBRARY_PATH /vendor/lib64:/vendor/lib:/system/lib64:/system/lib:/sbin
+    disabled
+    seclabel u:r:recovery:s0
