@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "69f00110_25935305",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 144
+      },
+      "writtenOn": "2023-09-15T10:20:34Z",
+      "side": 1,
+      "message": "need more change\n\nafter clobber \n\nFAILED: ninja: \u0027out/target/product/AI2202/kernel\u0027, needed by \u0027out/target/product/AI2202/recovery.img\u0027, missing and no known rule to make it",
+      "revId": "2bd3cdf01797ef513dd4132e2f7935242682a5e1",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
