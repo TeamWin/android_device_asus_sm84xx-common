@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a82465c1_73b67ab6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 144
+      },
+      "writtenOn": "2023-09-16T12:11:32Z",
+      "side": 1,
+      "message": "adb shell getprop|grep date.utc\n[ro.bootimage.build.date.utc]: [1694607239]\n[ro.build.date.utc]: [1694864264]\n[ro.odm.build.date.utc]: [1694864264]\n[ro.product.build.date.utc]: [1694864264]\n[ro.system.build.date.utc]: [1694864264]\n[ro.system_ext.build.date.utc]: [1694864264]\n[ro.vendor.build.date.utc]: [1694864264]",
+      "revId": "f2cdcb1e6652c07347214fda1154123e917af1a5",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
