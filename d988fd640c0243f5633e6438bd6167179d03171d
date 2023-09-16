@@ -1,4 +1,22 @@
 {
   "pushCert": "certificate version 0.1\npusher 1F5A13F735F72322 1694892221 -0400\npushee ssh://gerrit.twrp.me:29418/android_device_asus_sm84xx-common\nnonce 1694892221-BCF2DE9EA4176A248157D6C9D9E09E6F007D1009\n\n0000000000000000000000000000000000000000 d988fd640c0243f5633e6438bd6167179d03171d refs/for/android-12.1%l\u003dCode-Review+1,r\u003dmickaelsaibi@free.fr\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEE8Y8VaNp/zKXnXxPsH1oT9zX3IyIFAmUGAL0ACgkQH1oT9zX3\nIyLBIRAAkPMzFRQTUjCC26a1pXEzplLzGE///cp3uJAT6rdMwV9HvevYV8qtZl+f\nuvFyA7OLofSyU1MsN1WGrO8FOzu+aWwdvd1Ll5Y2MPEUBQoQP+47Ry+GPABfEdWg\neUUASv2cX3QeqJoFYRwwMpBBOkjUVIoHFDa1jlx0pp3lH4yDng3meL42CeQjIrgc\nPbucsWZVL/SfPsAqNBiHKc8uAkyRDcTCdffMOb4Un0Hx+fzFNNV8RPP9Lkg5rfkj\nAhNVM6Su7imwlHjTq7NY2G6TnfZJWDcMNE9/mqGmFNZvyCnf/BNsaNI/lEuJeMAD\nku47cJDvhiWVg+YP/KHFJPbcAJxm/j8qyvQEd1Qb5AibaXfLnhdGRvAqWVb8Qush\nOoxOKB/KaGOiIIHGMTybXdBhEWblOCjwf13rx/YVtFWJGdwhy09ciy7Lv7CQegVM\nz99gdJI0xjCo3U24cTKSKWRX10bJ5cfe8d+d3LHZFXDMsVBzMx7gXsv+hdkJ9ueN\nZktYk72nMcQ9XXsF37zekWcHm9vUryQpNCSb2qddG9bw6QNK7/gmzSJay8Ph2Dr1\nA6XFxQs4U7zz9dlAMHQ9CAc//QEt8406ccPneW1wX3fhmNc2bHMM2Tqt1zY5qZ3H\nabWHHfcoWC+0mW0JClydHACSNaL0pUNuJ705pZqZPJNbqjcPaRY\u003d\n\u003d+nu5\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "58b15297_52011584",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 144
+      },
+      "writtenOn": "2023-09-16T20:28:24Z",
+      "side": 1,
+      "message": "all seem good here",
+      "revId": "d988fd640c0243f5633e6438bd6167179d03171d",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
 }
