@@ -1,4 +1,22 @@
 {
   "pushCert": "certificate version 0.1\npusher 1F5A13F735F72322 1694882070 -0400\npushee ssh://gerrit.twrp.me:29418/android_device_asus_sm84xx-common\nnonce 1694882070-93B282C5A69CC15022711528BAA342181DD4F051\n\n0000000000000000000000000000000000000000 2b809ca8d44cf7ac4fa9490059ae25fa786693ae refs/for/android-12.1\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEE8Y8VaNp/zKXnXxPsH1oT9zX3IyIFAmUF2RYACgkQH1oT9zX3\nIyLqHQ//S2AeAYVFg8IaAXCvlXVnoYVayj1ETXw2W+OZUglgmePIASJbDo+W+YIV\nQh1zKUyz1zeb2t1sReIb5fGHlPFDReXULbucAoAHpT6zXB736lwS7qVI/6SHjTYF\nO2+E0AB3GPbIRoebVRII115ALK5v7Zhj9Qte9XOV5xOdlSLAZRMN7qIL2fbsaWfJ\nPtaPNDNJETUoVAV5SiAr51DxeOVaI4RaIK8XJEFIecGNpjL0NP2OUgFdsnZzaFL+\nz7u17gtkV2mJXt/paGg/Tn5xO/gBlQpU6QWt8sdnOMUs/Mx9f0whtjzlaMur6X2N\nzntfoDbcCcwMyxgRJf1MfEtGp6w99XKwnavuq0AYLax51nTmzdLA99gfmMhl/7sH\n6R2qJ/xKUJu8LwIN+oqgbI+QPjSNYRzJLChEDd90dD4VQxe77NCMatiQsryj/vMd\nqnbYVJusjLCnyUB4+5Euj41XPVmMOTSfMRcCmM1+VBLREd6VtjOVCPDv5Dzf4j0I\no6TPXyVAArKClbe8r9sZRitKdvM1lkdRmotZTUwHpg7oZSx7C5xUk5JD0xFxXYVc\nnaD1ucuo2jD6yrJuh3ahlaYO6vSzIfF3iQcEuvg7hgdXcUViosf/C4hNawrLuSmE\nlj+NJxPykN7OQ/y2ayxUIQ9Y2+7xlP+gqQ/waOo7Zg7/hKA2bIM\u003d\n\u003dof7/\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d6084d4c_ae30b90f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2023-09-16T16:35:18Z",
+      "side": 1,
+      "message": "Fixed typos in commit message. Now will test \u0026 confirm.",
+      "revId": "2b809ca8d44cf7ac4fa9490059ae25fa786693ae",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
 }
